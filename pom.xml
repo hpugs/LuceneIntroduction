@@ -7,5 +7,6 @@
   <modules>
   	<module>Luncene1</module>
   	<module>LunceneCommons</module>
+  	<module>Luncene2</module>
   </modules>
 </project>
